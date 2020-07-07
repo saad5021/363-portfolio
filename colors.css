@@ -1,0 +1,90 @@
+body {
+    background-image: url("https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    color: #BEDDF7;
+    font-size: 12px;
+}
+
+#portBody h2,
+#portBody h3,
+.artifactWrap h2,
+.folderContentView h2,
+.portfolioArtifactTable th {
+    color: #D6A84E;
+}
+
+#portBody {
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854__340.png");
+    background-color: rgba(15, 15, 15, 0.5);
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 1px solid #c2cbd2;
+    border-color: #D6A84E;
+}
+
+#portNav {
+    border: 1px solid #c2cbd2;
+}
+
+#portNav ul li a {
+    color: #ffffff;
+    height: auto;
+}
+
+#portNav {
+    border: 1px solid #c2cbd2;
+}
+
+#portNav ul li a {
+    color: #ffffff;
+    height: auto;
+}
+
+#portNav ul li a:hover {
+    background-color: #b3b3b3;
+    opacity: 59%;
+}
+
+#portNav ul li.extras a {
+    color: black;
+}
+
+#portContainer {
+    background-color: black;
+}
+
+#portText {
+    font-family: inherit;
+}
+
+#portHeader,
+#portFooter {
+    background-color: #3f434c;
+    color: #fff;
+    border: 1px solid #c2cbd2;
+}
+
+
+/* Artifact Styling */
+
+.artifactWrap,
+.folderContentView {
+    background-color: #fdfdfd;
+    border: 1px solid #c2cbd2;
+}
+
+.artifactWrap .portfolioArtifactTable .selectedCell {
+    background: #D1EAEF url(images/button_ok_ia.png) no-repeat 12px 12px;
+}
+
+.autoClickOnArtifactPreview {
+    background-color: #e4e8ea;
+    color: #0033aa;
+    border: 1px solid #c2cbd2;
+}
+
+.autoClickOnArtifactPreview:hover,
+.autoClickOnArtifactPreview:active {
+    background-color: #c2cbd2;
+}
