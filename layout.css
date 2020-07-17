@@ -163,12 +163,12 @@ margin-right: 20rem;
    padding: 1.2rem;
 }
 
-.portSection .vtbegenerated a {
+.portSection .vtbegenerated .aText a {
     color: #BEDDF7;
     text-decoration: none;
     padding: 1rem;
 }
-.portSection .vtbegenerated a:hover {
+.portSection .vtbegenerated .aText a:hover {
     color: #ebf5fd;
 }
 
