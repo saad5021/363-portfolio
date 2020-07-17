@@ -115,12 +115,15 @@ body {
 }
 /* edit here for the section title */
 #portText h3.section-title {
-  font-size: 140%;
+  font-size: 250%;
   font-weight: normal;
   display: block;
   border: solid;
   border-radius: .5rem;
   background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  margin-left: 10rem;
+  margin-right: 10rem;
 }
 
 #portText h3 {
@@ -153,6 +156,9 @@ border-radius: .5rem;
 border-color: #D6A84E;
 background-color: rgba(0, 0, 0, 0.5);
 margin: 2rem;
+margin-left: 20rem;
+margin-right: 20rem;
+  text-align: center;
 }
 
 #portFooter {
