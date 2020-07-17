@@ -124,6 +124,7 @@ body {
   text-align: center;
   margin-left: 10rem;
   margin-right: 10rem;
+  padding: 1.6rem;
 }
 
 #portText h3 {
@@ -159,6 +160,16 @@ margin: 2rem;
 margin-left: 20rem;
 margin-right: 20rem;
   text-align: center;
+   padding: 1.2rem;
+}
+
+.portSection .vtbegenerated a {
+    color: inherit;
+    text-decoration: none;
+    padding: 1rem;
+}
+.portSection .vtbegenerated a:hover {
+    color: #ebf5fd;
 }
 
 #portFooter {
